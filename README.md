@@ -4,3 +4,5 @@
 
 
 # localhost:8081---------base de datos
+ * PMA_USER: root
+ * PMA_PASSWORD: rootpass
